@@ -228,7 +228,7 @@ This project was made possible with the help of [ChatGPT](https://chatgpt.com/).
 
 ## Deliverables
 
-1. Generated logos using the application: 
+1. Generated sample logos using the application: 
    - [circleLogo.svg](./examples/circleLogo.svg)
    - [squareLogo.svg](./examples/squareLogo.svg)
    - [triangleLogo.svg](./examples/triangleLogo.svg)
@@ -250,6 +250,8 @@ If you have any questions, feel free to reach out:
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+
+[Back to Table of Contents](#table-of-contents)
 
 ---
 © 2024 - All Rights Reserved.
