@@ -234,7 +234,7 @@ This project was made possible with the help of [ChatGPT](https://chatgpt.com/).
    - [triangleLogo.svg](./examples/triangleLogo.svg)
 
 2. [GitHub repository](https://github.com/ngojohn2002/10-OOP-SVG-Logo-Maker) containing the application code.
-3. [Walkthrough video](https://drive.google.com/file/d/1PT2Enwkf0uIX3ATyoRZfVLqOeQGAgRgA/view?usp=sharing) demonstrates the functionality and test of the SVG Loge Maker app.
+3. [Walkthrough video](https://drive.google.com/file/d/1Xqj7dlci5oRxU3lBvSXeYKAj51xStRHQ/view?usp=sharing) demonstrates the functionality and test of the SVG Loge Maker app.
 
 [Back to Table of Contents](#table-of-contents)
 
